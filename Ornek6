@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+/* Bu kod ekrana karakter dizisi ile 
+beraber değişkenin değerini yazdırmaya yarar. */
+
+int main(){
+	
+	int yas = 70;
+	
+	cout << "Yas " << yas << " is bitmis.\n";
+	
+	
+	
+	return 0;
+}
