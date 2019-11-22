@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	
+  /* Değişkenler istenildiği zaman değerleri değiştirilebilir ancak 
+  const gibi sabit değerler değiştirilemez. */
+  
+	int a = 5;
+	
+	cout << a;
+	cout << "\n";
+	
+	a = 10;
+	
+	cout << a;
+	cout << "\n";
+	
+	const int b = 12;
+	
+	b = 15;
+	
+	cout <<b;
+	
+	return 0;
+}
