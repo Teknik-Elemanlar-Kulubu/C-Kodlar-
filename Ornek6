@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+/* değişkenlerin değerleri ++ veya -- gibi
+operatörlerle manipüle edilebilir. */
+
+int main(){
+	
+	int a = 5;
+	
+	a++;
+	
+	cout << a;
+	
+	a--;
+	
+	cout <<a;
+	
+	++a;
+	
+	cout << a;
+	
+	--a;
+	
+	cout << a;
+	
+	
+	
+	return 0;
+}
