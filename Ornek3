@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main(){
+	
+  // Ard arda iki slash işareti yorum satiri oluşturmaya yarar.
+  // Bu yorum satiri C++ tarafindan okunmaz.
+  /* Yorum satirlari kodların bir başkası tarafından
+  anlaşılabilmesini kolaylaştırır. */
+  /* Birkaç satırı tek seferde yorum satırlarına
+  çevirmek için yıldız slash kullanılır */
+  
+  
+	cout<<"Benim adim Taha\n"; 
+	
+	
+	return 0;
+}
