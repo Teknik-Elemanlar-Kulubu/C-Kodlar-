@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	
+	//dikdortgen prizmanin hacmini hesaplayan kod
+	
+	int x = 9 , y = 6, z = 13;
+	
+	cout << "Prizmanin hacmi : " << x*y*z <<"\n";
+	
+	// veya
+	
+	int hacim = x*y*z;
+	
+	cout << "Prizmanin hacmi : " << hacim <<"\n";
+	
+	return 0;
+}
