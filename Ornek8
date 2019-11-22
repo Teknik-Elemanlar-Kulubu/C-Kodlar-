@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	// iki tam sayiyi toplayan kod
+	
+	
+	int ilk_sayi = 5;
+	int ikinci_sayi = 27;
+	
+	cout <<"Sonuc = " << ilk_sayi+ikinci_sayi;
+	
+	
+	return 0;
+}
