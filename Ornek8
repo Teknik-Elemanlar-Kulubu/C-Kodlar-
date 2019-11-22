@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+/*
++ : toplama
+- : çıkarma
+* : çarpma
+/ : bölme
+% : kalanı bulma işlemleridir.
+*/
+
+int main(){
+	
+	int bolunen = 17;
+	int bolen = 3;
+	
+	cout <<"Bolunen = " << bolunen; 
+	cout <<"\nBolen = " << bolen;
+	cout <<"\nBolum = " <<bolunen / bolen;
+	cout <<"\nKalan = " <<bolunen % bolen;
+	cout <<"\n";
+	
+	
+	return 0;
+}
