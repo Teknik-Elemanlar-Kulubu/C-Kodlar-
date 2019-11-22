@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main(){
+	
+  /* Kullanıcıdan cin ile veri alıp bu veriyi
+  cout ile ekrana yazdırabiliriz. */
+  
+	string isim;
+	
+	cout << "Adiniz Nedir?\n";
+	cin >> isim;
+	
+	cout << "Merhaba " << isim <<"\n";
+	
+	return 0;
+}
