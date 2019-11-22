@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+// Bu kod, ekrana Merhaba Dunya yazdırır.
+
+int main(){
+	
+	
+	cout <<"Merhaba Dunya";
+	
+	return 0;
+}
