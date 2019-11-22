@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+// Ekrandan çıktı alırken alt satıra geçmek için "/n" kullanılır.
+
+int main(){
+	
+	cout << "Merhaba Dunya\n";
+	cout << "Ben C++ Programcisiyim\n";
+	
+	return 0;
+}
