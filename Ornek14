@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// ++a ile a++'nın işlevleri farklıdır.
 int main(){
   
 	int a = 13;
