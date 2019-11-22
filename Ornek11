@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	
+	// kullanıcının girdiği sayıları toplayan kod
+	
+	int x;
+	int y;
+	
+	cout <<"Ilk Sayiyi Giriniz : \n";
+	cin >> x;
+
+	cout <<"Ikinci SayiyiGiriniz : \n";
+	cin >> y;
+	
+	cout << "Toplamlari : " << x+y << "\n";
+	
+	return 0;
+}
