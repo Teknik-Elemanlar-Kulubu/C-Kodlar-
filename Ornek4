@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main(){
+	
+  // Ekrandan çıktı alınırken değişkenler de kullanılabilir.
+  // Tam sayı değişkenleri için int kullanılır.
+  
+	int yas = 22;
+	int yil;
+	
+	yil = 2019;
+	
+	cout << yas;
+	cout << "\n";
+	cout << yil;
+	
+	
+	return 0;
+}
